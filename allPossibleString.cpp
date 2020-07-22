@@ -18,7 +18,7 @@ void  printSpace(char str[]){
     print(str,ans,1,true);
 }
 int main(){
-    string s;
+    char s[10000];
     cin>>s;
     printSpace(s);
 }
